@@ -10,7 +10,7 @@ ExitZeroWebpackPlugin.prototype.apply = function (compiler) {
         process.exit(0);
       }
     }
-    callback();
+    return callback;
   });
 };
 
