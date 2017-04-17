@@ -1,6 +1,6 @@
 {
   "name": "exit-zero-webpack-plugin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "a webpack plugin that always allow a successful exit",
   "main": "index.js",
   "scripts": {
